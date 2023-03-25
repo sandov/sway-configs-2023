@@ -28,6 +28,10 @@ window {
 	/*box-shadow: inset 0 -3px white;*/
 	background-color: rgba(50, 50, 50, 0.5);
 	color: #ffffff;
-	padding: .25em
+	padding: .25em;
 }
 
+image{
+	margin-left: .25em;
+	margin-right: .25em;
+}
