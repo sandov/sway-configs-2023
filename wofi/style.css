@@ -2,13 +2,13 @@
 	border-radius: 3px;
 	border: none;
 	font-family: "Roboto Mono Medium", Helvetica, Arial, sans-serif;
-	font-size: 28px;
+	font-size: 32px;
 }
 
 window {
 	background-color: rgba(50, 50, 50, 0.9);
 	color: #ffffff;
-	border-bottom: 3px solid rgba(100, 114, 125, 0.5);
+	border-bottom: 3px solid white; 
 }
 
 #entry{
