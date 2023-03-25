@@ -2,7 +2,7 @@
 	border-radius: 3px;
 	border: none;
 	font-family: "Roboto Mono Medium", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 26px;
 }
 
 window {
@@ -13,6 +13,7 @@ window {
 
 #entry:selected {
 	background-color: #bbccdd;
+	background: linear-gradient(90deg, #bbccdd, #ccaabb);
 	color: #333333;
 }
 #text:selected {
