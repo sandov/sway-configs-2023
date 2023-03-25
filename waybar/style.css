@@ -1,10 +1,12 @@
 * {
     border: none;
     border-radius: 4px;
-    /* `otf-font-awesome` is required to be installed for icons */
+    /* `ttf-font-awesome` is required to be installed for icons */
     font-family: "Roboto Mono Medium", Helvetica, Arial, sans-serif;
-    /* Recommended font sizes: 720p: ~14px, 1080p: ~18px */
-    font-size: 20px;
+
+    /* adjust font-size value to your liking: */
+    font-size: 22px;
+
     min-height: 0;
 }
 
